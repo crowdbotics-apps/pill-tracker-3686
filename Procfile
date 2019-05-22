@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT pill_tracker_3686.wsgi:application
